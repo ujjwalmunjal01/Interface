@@ -19,7 +19,7 @@ st.image(
     width=140,
 )
 st.title('Smart India Hackathon 2022')
-st.subheader('Made with :heart:  by [Atharva Parikh](https://www.linkedin.com/in/aaparikh/)')
+st.subheader('Made by [Ujjwal Munjal](https://www.linkedin.com/in/ujjwal-munjal-975358191/) and [Sushant](https://www.linkedin.com/in/sushant-bodla-b65b72209)')
 st.markdown("""
 This app retrieves the list of the **Problem statements** from sih website
 * **Python libraries:** base64, pandas, streamlit, numpy, matplotlib, seaborn, requests, bs4, plotly
